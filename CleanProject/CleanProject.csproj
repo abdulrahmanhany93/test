@@ -22,4 +22,14 @@
         <PackageReference Include="Serilog.Sinks.MSSqlServer" Version="8.1.0"/>
     </ItemGroup>
 
+    <ItemGroup>
+        <Folder Include="Domain\"/>
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\Application\Application.csproj"/>
+        <ProjectReference Include="..\Domain\Domain.csproj"/>
+        <ProjectReference Include="..\Infrastructure\Infrastructure.csproj"/>
+    </ItemGroup>
+
 </Project>

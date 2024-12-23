@@ -1,9 +1,9 @@
 using CleanProject.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace CleanProject.Data;
+namespace Infrastructure.Data.DbContext;
 
-public class AppDbContext(DbContextOptions<AppDbContext> options) : DbContext(options)
+public class AppDbContext(DbContextOptions<AppDbContext> options) : Microsoft.EntityFrameworkCore.DbContext(options)
 {
     public DbSet<Client> Clients { get; init; }
     public DbSet<AccountTransaction> AccountTransactions { get; init; }

@@ -1,8 +1,8 @@
-using CleanProject.Data;
+using Application.Services.Implementations;
 using CleanProject.Data.Interfaces;
-using CleanProject.Data.Repository;
-using CleanProject.Services.Implementations;
 using CleanProject.Services.Interfaces;
+using Infrastructure.Data.DbContext;
+using Infrastructure.Repository;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 using Serilog;
@@ -13,8 +13,6 @@ builder.Host.UseSerilog((context, configuration) =>
 // Add services to the container.
 builder.Services.AddOpenApi();
 builder.Services.AddControllers();
-;
-
 builder.Services.AddOpenApi();
 builder.Services.AddDbContext<AppDbContext>(opt =>
     opt.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnectionString")));

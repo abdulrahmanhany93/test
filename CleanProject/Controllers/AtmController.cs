@@ -1,7 +1,7 @@
-using CleanProject.Data;
 using CleanProject.Data.Interfaces;
 using CleanProject.Domain.DTO;
 using CleanProject.Domain.Entities;
+using Infrastructure.Data.DbContext;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CleanProject.Controllers;

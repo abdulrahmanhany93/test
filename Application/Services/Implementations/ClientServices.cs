@@ -3,8 +3,9 @@ using CleanProject.Domain.DTO;
 using CleanProject.Domain.Entities;
 using CleanProject.Services.Interfaces;
 using CleanProject.Shared.Model;
+using Microsoft.Extensions.Logging;
 
-namespace CleanProject.Services.Implementations;
+namespace Application.Services.Implementations;
 
 public class ClientServices(
     ILogger<ClientServices> logger,

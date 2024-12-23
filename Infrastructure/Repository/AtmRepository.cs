@@ -2,8 +2,11 @@ using CleanProject.Data.Interfaces;
 using CleanProject.Domain.DTO;
 using CleanProject.Domain.Entities;
 using CleanProject.Shared.Model;
+using Infrastructure.Data.DbContext;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Logging;
 
-namespace CleanProject.Data.Repository;
+namespace Infrastructure.Repository;
 
 public class AtmRepository(AppDbContext appDbContext, ILogger<Atm> logger)
     : GenericRepository<Atm>(appDbContext, logger), IAtmRepository

@@ -4,7 +4,7 @@ using CleanProject.Domain.Entities;
 using CleanProject.Services.Interfaces;
 using CleanProject.Shared.Model;
 
-namespace CleanProject.Services.Implementations;
+namespace Application.Services.Implementations;
 
 public class AccountService(
     ICreditCardRepository creditCardRepository,

@@ -1,9 +1,12 @@
 using CleanProject.Data.Interfaces;
 using CleanProject.Domain.Entities;
 using CleanProject.Shared.Model;
+using Infrastructure.Data.DbContext;
+using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
 
-namespace CleanProject.Data.Repository;
+namespace Infrastructure.Repository;
 
 public class GenericRepository<T>(AppDbContext appDbContext, ILogger<T> logger)
     : IGenericRepository<T> where T : BaseEntity
