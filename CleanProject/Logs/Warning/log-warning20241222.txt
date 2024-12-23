@@ -1,0 +1,10 @@
+2024-12-22 02:07:38.132 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:08:25.146 +02:00 [WRN] Atm with id : "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" does not exist
+2024-12-22 02:08:28.713 +02:00 [WRN] Atm with id : "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" does not exist
+2024-12-22 02:10:32.683 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:10:35.741 +02:00 [WRN] Entity with ID "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" not found in Atms
+2024-12-22 02:10:35.985 +02:00 [WRN] Atm with id : "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" does not exist
+2024-12-22 02:14:06.163 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:14:09.673 +02:00 [WRN] Entity with ID "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" not found in Atms
+2024-12-22 02:22:13.428 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:22:15.614 +02:00 [WRN] Atm with ID "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" not found in Atms

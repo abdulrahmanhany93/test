@@ -1,0 +1,33 @@
+2024-12-22 02:07:38.132 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:07:41.390 +02:00 [INF] Retrieved entity with ID "4a4e63e9-8c58-4e3b-769d-08dd21e29c7a" from CreditCards
+2024-12-22 02:07:41.394 +02:00 [INF] Trying to deposit to account with id: "c6a1480b-eb5a-4fd4-af13-08dd21e29c71"
+2024-12-22 02:07:41.483 +02:00 [INF] deposit successfully to account with id : Account
+2024-12-22 02:07:41.485 +02:00 [INF] Trying to deposit to atm with id: "0bbaf5a3-da6c-419c-4e9f-08dd21e35000"
+2024-12-22 02:07:41.511 +02:00 [INF] Deposited to atm with id: "0bbaf5a3-da6c-419c-4e9f-08dd21e35000" and amount 500
+2024-12-22 02:08:25.129 +02:00 [INF] Retrieved entity with ID "4a4e63e9-8c58-4e3b-769d-08dd21e29c7a" from CreditCards
+2024-12-22 02:08:25.129 +02:00 [INF] Trying to deposit to account with id: "c6a1480b-eb5a-4fd4-af13-08dd21e29c71"
+2024-12-22 02:08:25.140 +02:00 [INF] deposit successfully to account with id : Account
+2024-12-22 02:08:25.140 +02:00 [INF] Trying to deposit to atm with id: "0bbaf5a3-da6c-419c-4e9f-08ed21e35000"
+2024-12-22 02:08:25.146 +02:00 [WRN] Atm with id : "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" does not exist
+2024-12-22 02:08:28.692 +02:00 [INF] Retrieved entity with ID "4a4e63e9-8c58-4e3b-769d-08dd21e29c7a" from CreditCards
+2024-12-22 02:08:28.693 +02:00 [INF] Trying to deposit to account with id: "c6a1480b-eb5a-4fd4-af13-08dd21e29c71"
+2024-12-22 02:08:28.708 +02:00 [INF] deposit successfully to account with id : Account
+2024-12-22 02:08:28.708 +02:00 [INF] Trying to deposit to atm with id: "0bbaf5a3-da6c-419c-4e9f-08ed21e35000"
+2024-12-22 02:08:28.713 +02:00 [WRN] Atm with id : "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" does not exist
+2024-12-22 02:10:32.683 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:10:35.741 +02:00 [WRN] Entity with ID "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" not found in Atms
+2024-12-22 02:10:35.879 +02:00 [INF] Retrieved entity with ID "4a4e63e9-8c58-4e3b-769d-08dd21e29c7a" from CreditCards
+2024-12-22 02:10:35.880 +02:00 [INF] Trying to deposit to account with id: "c6a1480b-eb5a-4fd4-af13-08dd21e29c71"
+2024-12-22 02:10:35.976 +02:00 [INF] deposit successfully to account with id : Account
+2024-12-22 02:10:35.977 +02:00 [INF] Trying to deposit to atm with id: "0bbaf5a3-da6c-419c-4e9f-08ed21e35000"
+2024-12-22 02:10:35.985 +02:00 [WRN] Atm with id : "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" does not exist
+2024-12-22 02:14:06.163 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:14:09.673 +02:00 [WRN] Entity with ID "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" not found in Atms
+2024-12-22 02:22:13.428 +02:00 [WRN] Failed to determine the https port for redirect.
+2024-12-22 02:22:15.614 +02:00 [WRN] Atm with ID "0bbaf5a3-da6c-419c-4e9f-08ed21e35000" not found in Atms
+2024-12-22 02:22:23.649 +02:00 [INF] Retrieved Atm with ID "0bbaf5a3-da6c-419c-4e9f-08dd21e35000" from Atms
+2024-12-22 02:22:23.752 +02:00 [INF] Retrieved entity with ID "4a4e63e9-8c58-4e3b-769d-08dd21e29c7a" from CreditCards
+2024-12-22 02:22:23.753 +02:00 [INF] Trying to deposit to account with id: "c6a1480b-eb5a-4fd4-af13-08dd21e29c71"
+2024-12-22 02:22:23.837 +02:00 [INF] deposit successfully to account with id : Account
+2024-12-22 02:22:23.838 +02:00 [INF] Trying to deposit to atm with id: "0bbaf5a3-da6c-419c-4e9f-08dd21e35000"
+2024-12-22 02:22:23.861 +02:00 [INF] Deposited to atm with id: "0bbaf5a3-da6c-419c-4e9f-08dd21e35000" and amount 500
